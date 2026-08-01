@@ -1,7 +1,0 @@
-# robots.txt
-# File ini memberitahu Google bagian mana yang boleh di-crawl.
-
-User-agent: *
-Allow: /
-
-Sitemap: https://atayakumara447-source.github.io/villa-canggu/sitemap.xml
