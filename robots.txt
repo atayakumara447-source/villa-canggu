@@ -1,7 +1,0 @@
-# robots.txt
-# File ini memberitahu Google bagian mana yang boleh di-crawl.
-
-User-agent: *
-Allow: /
-
-Sitemap: https://www.villaalangkayu.com/sitemap.xml
